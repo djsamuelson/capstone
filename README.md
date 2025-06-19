@@ -1,2 +1,2 @@
 # capstone
-repository for code you capstone project
+repository for code:you data analysis capstone project
